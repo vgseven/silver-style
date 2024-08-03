@@ -1,0 +1,49 @@
+.titlebar-container {
+    font-family: "JetBrains Mono" !important;
+    font-size: 12px !important;
+}
+
+.notifications-toasts {
+    font-family: "JetBrains Mono" !important;
+    font-size: 11px !important;
+}
+
+.statusbar {
+    font-family: "JetBrains Mono" !important;
+    font-size: 11px !important;
+}
+
+.monaco-tree .monaco-tree-row .label-name,
+.monaco-list .monaco-list-row .monaco-icon-label .label-name {
+    font-family: "JetBrains Mono", monospace !important;
+    font-size: 12px !important;
+}
+
+.tab .tab-label {
+    font-family: "JetBrains Mono" !important;
+    font-size: 12px !important;
+}
+
+.slider {
+    position: absolute !important;
+    right: 1px !important;
+    width: 1px !important;
+    left: auto !important;
+}
+
+.quick-input-filter .monaco-inputbox {
+    font-family: "JetBrains Mono" !important;
+    font-size: 14px !important;
+}
+
+.monaco-inputbox input::placeholder {
+    font-family: "JetBrains Mono" !important;
+}
+
+.extension-list-item {
+    font-family: "JetBrains Mono" !important;
+}
+
+.editor-container {
+    margin-top: 8px !important;
+}
